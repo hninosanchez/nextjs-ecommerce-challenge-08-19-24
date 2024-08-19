@@ -11,7 +11,7 @@
     {
       "id": 2,
       "title": "Samsung Galaxy S21",
-      "description": "High-end smartphone with 256GB storage.",
+      "description": "AMOLED display, 256GB storage.",
       "price": 699.99,
       "image": "https://via.placeholder.com/150",
       "rating": 4.7
@@ -23,6 +23,142 @@
       "price": 349.99,
       "image": "https://via.placeholder.com/150",
       "rating": 4.9
+    },
+    {
+      "id": 4,
+      "title": "Dell XPS 13",
+      "description": "Compact laptop with Intel i7 and 16GB RAM.",
+      "price": 999.99,
+      "image": "https://via.placeholder.com/150",
+      "rating": 4.6
+    },
+    {
+      "id": 5,
+      "title": "Apple MacBook Air M2",
+      "description": "Ultra-thin laptop with M2 chip.",
+      "price": 1249.99,
+      "image": "https://via.placeholder.com/150",
+      "rating": 4.8
+    },
+    {
+      "id": 6,
+      "title": "Google Pixel 6",
+      "description": "Smartphone with advanced camera and Tensor chip.",
+      "price": 599.99,
+      "image": "https://via.placeholder.com/150",
+      "rating": 4.7
+    },
+    {
+      "id": 7,
+      "title": "Microsoft Surface Pro 8",
+      "description": "Versatile 2-in-1 laptop with detachable keyboard.",
+      "price": 899.99,
+      "image": "https://via.placeholder.com/150",
+      "rating": 4.5
+    },
+    {
+      "id": 8,
+      "title": "Bose QuietComfort 45",
+      "description": "Wireless noise-canceling headphones.",
+      "price": 329.99,
+      "image": "https://via.placeholder.com/150",
+      "rating": 4.6
+    },
+    {
+      "id": 9,
+      "title": "Amazon Echo Dot (4th Gen)",
+      "description": "Smart speaker with Alexa.",
+      "price": 49.99,
+      "image": "https://via.placeholder.com/150",
+      "rating": 4.7
+    },
+    {
+      "id": 10,
+      "title": "Nikon Z6 II",
+      "description": "Mirrorless camera with 24.5MP sensor and 4K video.",
+      "price": 1999.99,
+      "image": "https://via.placeholder.com/150",
+      "rating": 4.8
+    },
+    {
+      "id": 11,
+      "title": "Apple iPad Pro 12.9",
+      "description": "High-end tablet with M1 chip.",
+      "price": 1099.99,
+      "image": "https://via.placeholder.com/150",
+      "rating": 4.9
+    },
+    {
+      "id": 12,
+      "title": "Sony PlayStation 5",
+      "description": "Next-gen gaming console with 4K gaming.",
+      "price": 499.99,
+      "image": "https://via.placeholder.com/150",
+      "rating": 4.8
+    },
+    {
+      "id": 13,
+      "title": "Samsung Galaxy Watch 4",
+      "description": "Smartwatch with fitness tracking.",
+      "price": 249.99,
+      "image": "https://via.placeholder.com/150",
+      "rating": 4.7
+    },
+    {
+      "id": 14,
+      "title": "GoPro HERO10",
+      "description": "Action camera with 5.3K video.",
+      "price": 499.99,
+      "image": "https://via.placeholder.com/150",
+      "rating": 4.7
+    },
+    {
+      "id": 15,
+      "title": "Apple AirPods Pro",
+      "description": "Wireless earbuds with noise cancellation.",
+      "price": 249.99,
+      "image": "https://via.placeholder.com/150",
+      "rating": 4.8
+    },
+    {
+      "id": 16,
+      "title": "LG OLED CX Series",
+      "description": "65-inch OLED TV with 4K resolution.",
+      "price": 1799.99,
+      "image": "https://via.placeholder.com/150",
+      "rating": 4.9
+    },
+    {
+      "id": 17,
+      "title": "Canon EOS R5",
+      "description": "Mirrorless camera with 45MP sensor.",
+      "price": 3899.99,
+      "image": "https://via.placeholder.com/150",
+      "rating": 4.8
+    },
+    {
+      "id": 18,
+      "title": "Fitbit Charge 5",
+      "description": "Fitness tracker with GPS.",
+      "price": 179.99,
+      "image": "https://via.placeholder.com/150",
+      "rating": 4.6
+    },
+    {
+      "id": 19,
+      "title": "NVIDIA GeForce RTX 3080",
+      "description": "High-performance graphics card.",
+      "price": 699.99,
+      "image": "https://via.placeholder.com/150",
+      "rating": 4.9
+    },
+    {
+      "id": 20,
+      "title": "Apple Watch Series 7",
+      "description": "Smartwatch with larger display.",
+      "price": 399.99,
+      "image": "https://via.placeholder.com/150",
+      "rating": 4.8
     }
   ]
 }
