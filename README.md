@@ -1,0 +1,1 @@
+# nextjs-ecommerce-challenge-08-19-24
