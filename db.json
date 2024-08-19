@@ -251,42 +251,6 @@
       "currency": "USD",
       "image": "https://via.placeholder.com/100",
       "rating": 4.8
-    },
-    {
-      "id": 29,
-      "title": "Apple TV 4K",
-      "description": "Streaming device with Dolby Vision and Siri Remote.",
-      "price": 179.99,
-      "currency": "USD",
-      "image": "https://via.placeholder.com/100",
-      "rating": 4.6
-    },
-    {
-      "id": 30,
-      "title": "Roku Ultra",
-      "description": "Streaming device with 4K support and enhanced voice remote.",
-      "price": 99.99,
-      "currency": "USD",
-      "image": "https://via.placeholder.com/100",
-      "rating": 4.7
-    },
-    {
-      "id": 31,
-      "title": "Google Nest Hub",
-      "description": "Smart display with Google Assistant and home automation features.",
-      "price": 89.99,
-      "currency": "USD",
-      "image": "https://via.placeholder.com/100",
-      "rating": 4.6
-    },
-    {
-      "id": 32,
-      "title": "JBL Flip 5",
-      "description": "Portable Bluetooth speaker with powerful sound and waterproof design.",
-      "price": 119.99,
-      "currency": "USD",
-      "image": "https://via.placeholder.com/100",
-      "rating": 4.8
     }
   ]
 }
