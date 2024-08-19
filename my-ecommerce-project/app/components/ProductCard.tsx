@@ -15,7 +15,7 @@ interface ProductCardProps extends Product {
 }
 
 const ProductCard: React.FC<ProductCardProps> = ({ id, title, description, price, currency, image, rating, addToCart }) => {
-  const truncatedDescription = description.length > 100 ? `${description.slice(0, 100)}...` : description;
+  const truncatedDescription = description ? (description.length > 100 ? `${description.slice(0, 100)}...` : description) : '';
 
   return (
     <div className="border p-4 rounded-lg shadow-sm flex flex-col justify-between h-full">
