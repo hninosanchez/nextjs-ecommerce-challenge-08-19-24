@@ -251,6 +251,24 @@
       "currency": "USD",
       "image": "https://via.placeholder.com/100",
       "rating": 4.8
+    },
+    {
+      "id": 29,
+      "title": "JBL Flip 5",
+      "description": "Portable Bluetooth speaker with powerful sound and waterproof design.",
+      "price": 119.99,
+      "currency": "USD",
+      "image": "https://via.placeholder.com/100",
+      "rating": 4.8
+    },
+    {
+      "id": 30,
+      "title": "Google Nest Hub",
+      "description": "Smart display with Google Assistant and home automation features.",
+      "price": 89.99,
+      "currency": "USD",
+      "image": "https://via.placeholder.com/100",
+      "rating": 4.6
     }
   ]
 }
