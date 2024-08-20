@@ -43,7 +43,7 @@ const ProductCard: React.FC<ProductCardProps> = React.memo(({ title, description
         <div className="mt-auto">
           <button
             onClick={addToCart}
-            className="w-full bg-blue-500 text-white py-2 rounded-full transition-colors duration-300 hover:bg-blue-600 focus:outline-none focus:ring-2 focus:ring-blue-400"
+            className="w-full bg-blue-600 text-white py-2 rounded-lg transition-colors duration-300 hover:bg-blue-700 focus:outline-none focus:ring-2 focus:ring-blue-400"
             aria-label={`Add ${title} to cart`}
           >
             Add to Cart
